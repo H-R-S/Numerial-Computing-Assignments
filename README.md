@@ -1,4 +1,4 @@
-# [NC Assignments (Solved)]()
+# [NC Assignments (Solved)](https://github.com/H-R-S/Numerial-Computing-Assignments/blob/main/README.md)
 
 1 Bisection Method 
 ### Code:
